@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- I'm currently on the look out for a role in backend web development, ideally writing Go.
+
 <!--
 **GircysRomualdas/GircysRomualdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
